@@ -180,7 +180,7 @@ function convertRMB(){
 
 let rmb=document.getElementById("rmb").value;
 
-let rate=0.61;
+let rate=0.65;
 
 let myr=rmb*rate;
 
